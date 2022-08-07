@@ -1,4 +1,5 @@
 # World-Internet-Price-Analysis
+# World Internet Price Analysis(2020-2022)
 # Cleaning and Analyzing data in power query and Power BI 
 # Introduction
   This project is my first project since I started learning on DataCamp. I analyzed a dataset from kaggle about Internet Price of various countries around the world from 2020-2022. The dataset contained 243 countries and 13 columns which included; Country code,Country, Number of Internet plans, Average price of 1GB(2021) and Population.
