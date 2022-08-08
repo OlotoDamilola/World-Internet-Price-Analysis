@@ -2,6 +2,7 @@
 # Cleaning and Analyzing data in power query and Power BI 
 # Introduction
   This project is my first project since I started learning on DataCamp. I analyzed a dataset from kaggle about Internet Price of various countries around the world from 2020-2022. The dataset contained 243 countries and 13 columns which included; Country code,Country, Number of Internet plans, Average price of 1GB(2021) and Population.
+![Home_1](https://user-images.githubusercontent.com/109422215/183429308-d86d5bed-1468-402c-a145-080a3b0ddbef.png)
 # Data Cleaning 
   After Importing my data into power query, I promoted my first row as headers, renamed columns, checked for duplicates and validity of my data using column distribution, quality and profiling.
  # Data Preprocessing
