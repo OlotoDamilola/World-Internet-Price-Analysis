@@ -32,4 +32,5 @@
     13. Eastern Europe: Czech Republic($8.15) is the most expensive in this region followed by Slovakia($3.55). The cheapest can be found in Maldova($0.32) followed by         Poland($0.64).
 # Internet Users by country
   South Korea(97%) has the highest number of internet users in Asia and the lowest being Afghanistan(11%). Andorra and Faroe Islands(99%) located in Western Europe       have the highest internet users in the world out of 77066 & 48497 population respectively. The majority of low internet users can be found in Sub-Saharan Africa,       countries like Burundi(5%), Somalia(2%), Guinea Bissau(4%) and so on. Eritrea is joint lowest internet users with Somalia but its located in the Northern Africa       region.
+  ![Map Region_1](https://user-images.githubusercontent.com/109422215/183430744-6b16ef77-c018-49e1-a7e3-d10c6dc13616.png)
     
