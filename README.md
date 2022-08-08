@@ -1,4 +1,3 @@
-# World-Internet-Price-Analysis
 # World Internet Price Analysis(2020-2022)
 # Cleaning and Analyzing data in power query and Power BI 
 # Introduction
